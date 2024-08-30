@@ -17,5 +17,6 @@ This portfolio website is a personal project where I demonstrate my skills in we
 - HTML
 - CSS
 - JavaScript
+![image](https://github.com/user-attachments/assets/e6dd1129-39d1-4a84-8c85-e467e2723444)
 
 
